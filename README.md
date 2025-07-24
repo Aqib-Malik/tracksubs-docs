@@ -1,39 +1,40 @@
-📌 Information We Collect
-TrackSubs is designed to protect your privacy:
+# 📱 TrackSubs
 
-The App does not collect, store, or share any personally identifiable information (PII).
+Track upcoming subscription renewals with ease — **fully offline**, with local reminders and zero data collection.
 
-All data you enter (such as subscription names, amounts, renewal dates) is stored locally on your device.
+---
 
-We do not use external servers or cloud storage.
+## ✨ Features
 
-🔔 Local Notifications
-The App uses local notifications to remind you about upcoming subscription renewals:
+- Track all your subscriptions in one place
+- Local notifications to remind you before renewals
+- All data stays on your device
+- No sign-up, no cloud storage, no ads
 
-Notifications are created and scheduled on your device.
+---
 
-We do not track or collect data on your notification interactions.
+## 🔒 Privacy Policy
 
-🔒 Data Security
-Since all your data is stored locally:
+We respect your privacy!  
+TrackSubs does **not** collect, store, or share your personal data.
 
-You have full control over your data.
+**Summary:**
+- Data you enter (like subscription names, amounts, dates) is stored **only on your device**
+- Local notifications are scheduled **directly on your device**
+- We do **not** track, analyze, or send any data to external servers
+- No cookies, no analytics, no ads
 
-Deleting the App or clearing its data from your device will permanently remove your stored subscriptions and reminders.
+For full details, see our [Privacy Policy](PRIVACY_POLICY.md).
 
-🧁 Cookies & Analytics
-TrackSubs:
+---
 
-Does not use cookies.
+## 📧 Contact
 
-Does not integrate analytics, advertising, or third-party tracking tools.
+If you have questions or suggestions, please contact:  
+**hmaqib91@gmail.com**
 
-👶 Children's Privacy
-TrackSubs is not directed toward children under the age of 13, and we do not knowingly collect any data from them.
+---
 
-🧰 Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Changes will be posted publicly on our GitHub repository, and your continued use of the App after changes are made means you accept them.
+## 🛠 About
 
-📧 Contact Us
-If you have any questions or suggestions about this Privacy Policy, feel free to contact us at:
-hmaqib91@gmail.com
+TrackSubs is an open project built to help users stay on top of their subscriptions, without compromising privacy.
